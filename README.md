@@ -47,7 +47,8 @@ print("my webserver is running...")
 httpd.serve_forever()
 ~~~
 ## OUTPUT:
-![GitHub Logo](/webb.png)
+![GitHub Logo](webbb.png)
+
 ## RESULT:
 
 A webserver has been successfully created.
